@@ -1,0 +1,5 @@
+Presentation link-https://github.com/MILO22U/Applied-Data-Science-Capstone-Capstone-Project---The-Battle-of-Neighborhoods-week-2/blob/master/Presentation.docx
+
+Report link-https://github.com/MILO22U/Applied-Data-Science-Capstone-Capstone-Project---The-Battle-of-Neighborhoods-week-2/blob/master/Final%20Report.ipynb
+
+Notebook link-https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/55777a06-bf4e-4ef7-b554-b048a66493c4/view?access_token=e90d573ac2d93db7b9165033615832f1c242471da017748ce23f0474a7bdf4ae
